@@ -2,7 +2,7 @@
 - 👀 I’m interested in game, moive, vvvvv
 - 🌱 I’m currently learning Data Engineer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me by facebook
 
 <!---
 dhaka2310/dhaka2310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
