@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhaka2310 I'm from Ho Chi Minh City, Viet Nam.
-- 👀 I’m interested in game, moive, vvvvvvvvvvvvv
+- 👀 I’m interested in game, moive, vvvvvvvvvvvvvv
 - 🌱 I’m currently learning Data Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by facebook
